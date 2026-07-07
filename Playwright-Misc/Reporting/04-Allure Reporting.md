@@ -27,7 +27,7 @@ Let's cover it from beginner to enterprise level.
 
 ----------
 
-# Part 19 – Reporting
+# Part 20 – Reporting
 
 # Chapter 4 – Allure Reporting (Enterprise Reporting)
 
@@ -1098,5 +1098,5 @@ Allure transforms Playwright test executions into enterprise-grade reports with 
 
 ----------
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjMzODM5MjFdfQ==
+eyJoaXN0b3J5IjpbLTY0NTkzNDkzOSwtMTEyMzM4MzkyMV19
 -->
