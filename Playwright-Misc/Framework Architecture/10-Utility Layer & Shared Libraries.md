@@ -32,7 +32,7 @@ The goal of this chapter is to prevent that.
 
 ----------
 
-# Part 21 – Framework Best Practices
+# Part 22 – Framework Best Practices
 
 # Chapter 10 – Utility Layer & Shared Libraries
 
@@ -896,5 +896,5 @@ A well-designed Utility Layer provides reusable technical capabilities without b
 
 ----------
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjQ5MjcwMzVdfQ==
+eyJoaXN0b3J5IjpbNjk5MDQ5NjcwLC0xOTY0OTI3MDM1XX0=
 -->
