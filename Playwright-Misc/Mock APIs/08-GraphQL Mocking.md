@@ -28,7 +28,7 @@ Understanding this difference is the key to successful GraphQL mocking.
 
 ----------
 
-# Part 16 – Mock APIs
+# Part 18 – Mock APIs
 
 # Chapter 8 – GraphQL Mocking
 
@@ -990,5 +990,5 @@ GraphQL mocking differs from REST because all operations typically share a singl
 
 ----------
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNjQ3NjU3N119
+eyJoaXN0b3J5IjpbMjk5NjEwNzg3LDE3MzY0NzY1NzddfQ==
 -->
