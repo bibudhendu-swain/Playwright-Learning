@@ -10,7 +10,7 @@ This is not just another folder structure. It is a **complete architectural blue
 
 ----------
 
-# Part 21 – Framework Best Practices
+# Part 22 – Framework Best Practices
 
 # Chapter 13 – Enterprise Framework Architecture (Complete Blueprint)
 
@@ -1091,5 +1091,5 @@ An enterprise Playwright framework is much more than a collection of page object
 
 ----------
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzOTU5NzM3NV19
+eyJoaXN0b3J5IjpbMjE0Mjc2NTQ0MCwyMDM5NTk3Mzc1XX0=
 -->
