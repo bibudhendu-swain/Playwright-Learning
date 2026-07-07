@@ -21,7 +21,7 @@ This chapter covers all of those.
 
 ----------
 
-# Part 10 – Events
+# Part 11 – Events
 
 # Chapter 3 – Page Events
 
@@ -832,5 +832,5 @@ Page events provide visibility into everything happening inside a browser page�
 
 ----------
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ4NTU4OTczXX0=
+eyJoaXN0b3J5IjpbMTE4MzExNTM1Niw2NDg1NTg5NzNdfQ==
 -->
