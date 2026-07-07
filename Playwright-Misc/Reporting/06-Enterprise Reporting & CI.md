@@ -4,7 +4,7 @@ This chapter focuses on **enterprise reporting strategies** rather than just Pla
 
 ----------
 
-# Part 19 – Reporting
+# Part 20 – Reporting
 
 # Chapter 6 – Enterprise Reporting & CI Integration
 
@@ -1030,5 +1030,5 @@ Enterprise reporting extends beyond generating HTML pages. A complete reporting 
 
 ----------
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NDEyNTg0MV19
+eyJoaXN0b3J5IjpbMjEyNzg3MTY1NSwxNzU0MTI1ODQxXX0=
 -->
