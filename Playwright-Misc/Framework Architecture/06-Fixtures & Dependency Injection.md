@@ -21,7 +21,7 @@ This chapter is intentionally much deeper than the Playwright documentation beca
 
 ----------
 
-# Part 21 – Framework Best Practices
+# Part 22 – Framework Best Practices
 
 # Chapter 6 – Fixtures & Dependency Injection (Enterprise Edition)
 
@@ -1009,5 +1009,5 @@ Playwright's fixture system provides a clean and powerful dependency injection m
 
 ----------
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDM2OTQyODldfQ==
+eyJoaXN0b3J5IjpbMTMwMDY4MzA4NiwtMjA0MzY5NDI4OV19
 -->
