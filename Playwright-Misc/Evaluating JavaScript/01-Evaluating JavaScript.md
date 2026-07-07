@@ -13,7 +13,7 @@ This chapter will explain exactly when and why to use it.
 
 ----------
 
-# Part 11 – Evaluating JavaScript
+# Part 13 – Evaluating JavaScript
 
 # Chapter 1 – JavaScript Evaluation Fundamentals
 
@@ -632,5 +632,5 @@ No. Prefer Playwright locators because they provide auto-waiting, actionability 
 
 ----------
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNjQ0MjEyMV19
+eyJoaXN0b3J5IjpbLTE5MjgxODQ2NTEsLTkyNjQ0MjEyMV19
 -->
