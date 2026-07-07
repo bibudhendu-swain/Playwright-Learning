@@ -6,9 +6,9 @@ I'll also explain **when you should _not_ use custom selector engines**, because
 
 ----------
 
-# Part 13 – Extensibility
+# Part 3 – Extensibility
 
-# Chapter 1 – Custom Selector Engines
+# Chapter 4 – Custom Selector Engines
 
 ----------
 
@@ -691,5 +691,5 @@ Custom selector engines extend Playwright's locator system for specialized appli
 
 ----------
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzODY5MDg5N119
+eyJoaXN0b3J5IjpbMTc0NDk2OTI1OSwtODM4NjkwODk3XX0=
 -->
