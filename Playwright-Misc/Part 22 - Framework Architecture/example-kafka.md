@@ -1,7 +1,7 @@
 For an enterprise Playwright framework, do not put Kafka code directly inside the tests. Instead,create a reusable messaging layer, just like we do for APIs.
 
 Recommended Project Structure
-
+```
 src/
 ├── pages/
 ├── services/
@@ -16,7 +16,7 @@ src/
 ├── utils/
 └── tests/
 
-
+```
 ---
 
 Step 1: Kafka Client
