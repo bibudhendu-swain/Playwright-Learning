@@ -5,6 +5,7 @@ What is Event-Driven Architecture?
 
 Instead of one service directly calling another synchronously, services communicate by publishing events.
 
+```
 Traditional architecture:
 
 User
@@ -35,6 +36,8 @@ Event-driven architecture:
 The publisher doesn't know who consumes the message.
 
 Everything happens asynchronously.
+
+```
 
 
 ---
@@ -86,6 +89,7 @@ This is where event verification comes in.
 
 
 ---
+```
 
 Common Enterprise Pattern
 
@@ -139,7 +143,7 @@ messaging/
 utils/
 
 Your page objects stay clean and focused on the UI.
-
+```
 
 ---
 
