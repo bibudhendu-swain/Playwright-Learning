@@ -29,6 +29,8 @@ Instead, create an abstraction.
 
 ---
 
+```
+
 Enterprise Architecture
 
 Playwright Test
@@ -47,7 +49,7 @@ Playwright Test
 The Playwright test only talks to the Business Service.
 
 The Business Service decides whether it needs to call an API, consume an event, or query a database.
-
+```
 
 ---
 
